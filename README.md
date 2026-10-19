@@ -1,2 +1,2 @@
-# getstartedincs.github.io
-Resources for getting started in cybersecurity.
+# getstartedincs.com
+Collection of free and paid resources about the fundamentals of computing and networking, for the purpose of getting started in to cybersecurity.
