@@ -6,7 +6,7 @@ Use this website as a starting point in your journey to becoming a cybersecurity
 
 This website is a collection of resources, not a roadmap. Talk to people, explore what interests you, learn by doing, and find your own way.
 
-Made with <3. Contribute [here](https://github.com/johnmail3443/getstartedincs.github.io/pulls).
+Made with ❤️. Contribute [here](https://github.com/johnmail3443/getstartedincs.github.io/pulls).
 
 # Resources
 ## Fundamentals
