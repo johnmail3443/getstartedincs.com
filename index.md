@@ -1,5 +1,3 @@
-Notes
-
 # Get Started in Cybersecurity
 > "There are ten thousand paths through the forest. The right one is the one you discover."
 
