@@ -1,0 +1,45 @@
+Notes
+
+# Get Started in Cybersecurity
+> "There are ten thousand paths through the forest. The right one is the one you discover."
+
+Use this website as a starting point in your journey to becoming a cybersecurity professional.
+* * *
+
+This website is a collection of resources, not a roadmap. Talk to people, explore what interests you, learn by doing, and find your own way.
+
+Made with <3. Contribute [here](https://github.com/johnmail3443/getstartedincs.github.io/pulls).
+
+# Resources
+## Fundamentals
+### Computing
+- [Sebastion Lague - Exploring How Computers Work](https://www.youtube.com/watch?v=QZwneRb-zqA)
+- [CPU Logic Gates in Minecraft](https://www.youtube.com/watch?v=QZwneRb-zqA)
+
+### Networking
+- [Ben Eater - Networking Tutorial Playlist](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
+- [Practical Networking - Networking Fundamentals Playlist](https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+
+## Hands-On Practice Labs
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box Labs](https://www.hackthebox.com/hacker/hacking-labs)
+
+## Courses
+- [Hack The Box Academy](https://academy.hackthebox.com/)
+- [Taggart Institute Course Catalog](https://taggartinstitute.org/t/course-catalog/125)
+
+## News
+- [The Independent Federated Intelligence Network News Feed](https://news.ifin.network)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [CISA Alerts](https://www.cisa.gov/news-events/cybersecurity-advisories)
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
+
+## Groups and Meetings
+- Search your local area and colleges for IT/infosec/cybersecurity related meetings and conferences
+- [Meetup.com](https://www.meetup.com/topics/cybersecurity/) + your local city
+- [Cyber Groups with Local Chapters](https://staysafeonline.org/articles/cyber-groups-with-local-chapters-you-can-join-today)
+- [Taggart Institute Discourse Forum](https://taggartinstitute.org/)
+
+# Courses and Books
+- ["Code" by Charles Petzold, 1st Edition](https://www.goodreads.com/book/show/44882.Code)
+- ["Cyberescurity Career Guide" by Alyssa Miller](https://www.goodreads.com/book/show/58581779-cybersecurity-career-guide)
