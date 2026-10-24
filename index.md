@@ -19,7 +19,7 @@ Made with ❤️. Contribute [here](https://github.com/johnmail3443/getstartedin
 - [Practical Networking - Networking Fundamentals Playlist](https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 
 ## Hands-On Practice Labs
-*Creating your own practice lab is perhaps the best way to practice and understand cybersecurity concepts. If you're not sure how to create your own labs, start [here](https://taggartinstitute.org/t/course-catalog/125/24)
+*Creating your own labs is one of the best ways to practice cybersecurity concepts and gain hands-on experience in a realistic environment. Start [here](https://taggartinstitute.org/t/course-catalog/125/24)
 - [TryHackMe](https://tryhackme.com/)
 - [Hack The Box Labs](https://www.hackthebox.com/hacker/hacking-labs)
 - [Port Swigger Web Security Labs](https://portswigger.net/web-security/all-labs)
