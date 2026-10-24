@@ -38,6 +38,7 @@ Made with ❤️. Contribute [here](https://github.com/johnmail3443/getstartedin
 - [Cyber Groups with Local Chapters](https://staysafeonline.org/articles/cyber-groups-with-local-chapters-you-can-join-today)
 - [Taggart Institute Discourse Forum](https://taggartinstitute.org/)
 
-# Courses and Books
+# Books
 - ["Code" by Charles Petzold, 1st Edition](https://www.goodreads.com/book/show/44882.Code)
+- ["Pro Git" by Scott Chacon and Ben Straub, 2nd Edition](https://git-scm.com/book/en/v2)
 - ["Cyberescurity Career Guide" by Alyssa Miller](https://www.goodreads.com/book/show/58581779-cybersecurity-career-guide)
