@@ -44,3 +44,4 @@ Made with ❤️. Contribute [here](https://github.com/johnmail3443/getstartedin
 - ["Code" by Charles Petzold, 1st Edition](https://www.goodreads.com/book/show/44882.Code)
 - ["Pro Git" by Scott Chacon and Ben Straub, 2nd Edition](https://git-scm.com/book/en/v2)
 - ["Cyberescurity Career Guide" by Alyssa Miller](https://www.goodreads.com/book/show/58581779-cybersecurity-career-guide)
+- ["UNIX and Linux System Administration Handbook" by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley, 5th Edition"](https://www.goodreads.com/en/book/show/8772005-unix-and-linux-system-administration-handbook)
