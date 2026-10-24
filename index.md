@@ -21,10 +21,12 @@ Made with ❤️. Contribute [here](https://github.com/johnmail3443/getstartedin
 ## Hands-On Practice Labs
 - [TryHackMe](https://tryhackme.com/)
 - [Hack The Box Labs](https://www.hackthebox.com/hacker/hacking-labs)
+- [Port Swigger Web Security Labs](https://portswigger.net/web-security/all-labs)
 
 ## Courses
 - [Hack The Box Academy](https://academy.hackthebox.com/)
 - [Taggart Institute Course Catalog](https://taggartinstitute.org/t/course-catalog/125)
+
 
 ## News
 - [The Independent Federated Intelligence Network News Feed](https://news.ifin.network)
