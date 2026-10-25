@@ -13,6 +13,7 @@ Made with ❤️. Contribute [here](https://github.com/johnmail3443/getstartedin
 ### Computing
 - [Sebastion Lague - Exploring How Computers Work](https://www.youtube.com/watch?v=QZwneRb-zqA)
 - [CPU Logic Gates in Minecraft](https://www.youtube.com/watch?v=QZwneRb-zqA)
+- [Nand to Tetris](https://www.nand2tetris.org)
 
 ### Networking
 - [Ben Eater - Networking Tutorial Playlist](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
