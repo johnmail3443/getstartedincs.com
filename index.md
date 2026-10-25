@@ -18,18 +18,16 @@ Made with ❤️. Contribute [here](https://github.com/johnmail3443/getstartedin
 - [Ben Eater - Networking Tutorial Playlist](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
 - [Practical Networking - Networking Fundamentals Playlist](https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 
-## Hands-On Practice Labs
+## Courses and Labs
 *Creating your own labs is one of the best ways to practice cybersecurity concepts and gain hands-on experience in a realistic environment. 
 - If you're not sure how to create your own labs, start [here](https://taggartinstitute.org/t/course-catalog/125/24).
 - [TryHackMe](https://tryhackme.com/)
 - [Hack The Box Labs](https://www.hackthebox.com/hacker/hacking-labs)
 - [Port Swigger Web Security Labs](https://portswigger.net/web-security/all-labs)
 - [Cyber Defenders Blue Team Labs](https://cyberdefenders.org/blue-team-labs/)
-
-## Courses
 - [Hack The Box Academy](https://academy.hackthebox.com/)
 - [Taggart Institute Course Catalog](https://taggartinstitute.org/t/course-catalog/125)
-
+- [Detection Engineering with Sigma](https://taggartinstitute.org/t/course-catalog/125/23)
 
 ## News
 - [The Independent Federated Intelligence Network News Feed](https://news.ifin.network)
