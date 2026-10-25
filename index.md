@@ -24,6 +24,7 @@ Made with ❤️. Contribute [here](https://github.com/johnmail3443/getstartedin
 - [TryHackMe](https://tryhackme.com/)
 - [Hack The Box Labs](https://www.hackthebox.com/hacker/hacking-labs)
 - [Port Swigger Web Security Labs](https://portswigger.net/web-security/all-labs)
+- [pwn.college](https://pwn.college)
 - [Cyber Defenders Blue Team Labs](https://cyberdefenders.org/blue-team-labs/)
 - [Hack The Box Academy](https://academy.hackthebox.com/)
 - [Taggart Institute Course Catalog](https://taggartinstitute.org/t/course-catalog/125)
